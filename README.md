@@ -19,11 +19,11 @@ Well versed in HTML/CSS, I'm also delving into the world of UNIX and loving it s
 I consider myself a very quick learner which helps me grasp new concepts (and software) quite easily. I've also worked as a freelance writer in the past, where I was to research on very niche topics and present coherently drafted articles on the same.
 
 My hobbies include:
-    📚 Reading and writing
-    📝 Sudoku
-    🎮 Gaming
-    🎶 Exploring music and obsessively creating suspiciously specific playlists
-    🎨 Crafting
-    🍲 Cooking
+    📚 Reading and writing \n
+    📝 Sudoku \n
+    🎮 Gaming \n
+    🎶 Exploring music and obsessively creating suspiciously specific playlists \n
+    🎨 Crafting \n
+    🍲 Cooking \n
     
 I'm also a fan of learning up cool traits because I'd randomly be obsessed with the idea of being good at them. Because of this, I ended up teaching myself calligraphy, ASL, Morse code and the Cyrillic script, and am currently (trying to) practice up a bunch of magic tricks to impress my 8-year-old nephew.   
