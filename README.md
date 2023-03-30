@@ -40,8 +40,9 @@ I'm also a fan of learning up cool traits because I'd randomly be obsessed with 
 
 # Reach out to me!
 
-**Discord:** IshyFishy#6799
-**LinkedIn:** [Isheta Bhatt](https://www.linkedin.com/in/isheta-bhatt-467729205/)
-**Kattis:** [Work in Progress!](https://open.kattis.com/users/isheta-bhatt)
+**Discord:** IshyFishy#6799 <br />
+**LinkedIn:** [Isheta Bhatt](https://www.linkedin.com/in/isheta-bhatt-467729205/) <br />
+**Kattis:** [Work in Progress!](https://open.kattis.com/users/isheta-bhatt) <br />
+
 
 # Thanks for dropping by, have a great day/night/time :)
