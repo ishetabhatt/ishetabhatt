@@ -27,9 +27,9 @@ I consider myself a very quick learner which helps me grasp new concepts (and so
 
 ### My hobbies
 ⠀
-    📚 Reading and writing 
-    📝 Sudoku 
-    🎮 Gaming 
+📚 Reading and writing 
+📝 Sudoku 
+🎮 Gaming 
     🎨 Crafting 
     🍲 Cooking
     🎶 Exploring music and obsessively creating suspiciously specific playlists 
