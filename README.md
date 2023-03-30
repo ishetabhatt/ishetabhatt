@@ -26,16 +26,22 @@ I consider myself a very quick learner which helps me grasp new concepts (and so
 
 
 ### My hobbies
-⠀
-📚 Reading and writing 
-📝 Sudoku 
-🎮 Gaming 
-    🎨 Crafting 
-    🍲 Cooking
-    🎶 Exploring music and obsessively creating suspiciously specific playlists 
-    
-I'm also a fan of learning up cool traits because I'd randomly be obsessed with the idea of being good at them. Because of this, I ended up teaching myself calligraphy, ASL, Morse code and the Cyrillic script, and am currently (trying to) practice up a bunch of magic tricks to impress my 8-year-old nephew.   
+
+This list is incomplete.  <sup> I will get around to </sup> ~~You can help by~~ expanding it. <br />
+      📚 Reading and writing <br />
+      📝 Sudoku <br />
+      🎮 Gaming <br />
+      🎨 Crafting <br />
+      🍲 Cooking <br />
+      🎶 Exploring music and obsessively creating suspiciously specific playlists <br />
+<br />
+I'm also a fan of learning up cool traits because I'd randomly be obsessed with the idea of being good at them. Because of this, I ended up teaching myself calligraphy, ASL, Morse code, swing dancing and the Cyrillic script, and am currently (trying to) practice up a bunch of magic tricks to impress my 8-year-old nephew.   
 
 
 # Reach out to me!
 
+**Discord:** IshyFishy#6799
+**LinkedIn:** [Isheta Bhatt](https://www.linkedin.com/in/isheta-bhatt-467729205/)
+**Kattis:** [Work in Progress!](https://open.kattis.com/users/isheta-bhatt)
+
+# Thanks for dropping by, have a great day/night/time :)
