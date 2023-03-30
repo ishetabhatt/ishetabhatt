@@ -3,7 +3,7 @@
 
 ### What this account is for
 
-I am Isheta Bhatt, aka IshyFishy, and I'm a second year CSE student! My main goal for this Git account is to simply have a pretty 'neat' archive of my codes, since I'm notorious for:
+I am Isheta Bhatt and I'm a second year CSE student! My main goal for this Git account is to simply have a pretty 'neat' archive of my codes, since I'm notorious for:
 
       ☐ a.) coding away a lot
       
